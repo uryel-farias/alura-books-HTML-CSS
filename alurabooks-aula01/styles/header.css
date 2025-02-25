@@ -39,6 +39,8 @@
 .lista-menu__item {
     padding: 1em;
     background-color: var(--branco);
+    font-family: var(--fonte-principal);
+    letter-spacing: 2px;
 }
 
 .lista-menu__titulo {
