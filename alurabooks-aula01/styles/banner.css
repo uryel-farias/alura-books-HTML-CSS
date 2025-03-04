@@ -6,11 +6,13 @@
 }
 
 .banner__titulo {
+    font-family: var(--fonte-principal);
     font-size: 18px;
     font-weight: 700;
 }
 
 .banner__texto {
+    font-family: var(--fonte-principal);
     font-weight: 500;
     margin: 1em 0;
 }

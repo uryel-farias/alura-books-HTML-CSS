@@ -1,5 +1,6 @@
 
 .carrossel__titulo {
+    font-family: var(--fonte-principal);
     color: var(--laranja);
     background-color: var(--branco);
     text-align: center;
@@ -47,11 +48,13 @@
 }
 
 .descrição__titulo {
+    font-family: var(--fonte-principal);
     color: var(--laranja);
     font-weight: 700;
 }
 
 .descrição__titulo-livro {
+    font-family: var(--fonte-principal);
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
@@ -59,6 +62,7 @@
 }
 
 .descrição__texto {
+    font-family: var(--fonte-principal);
     font-size: 14px;
 }
 
@@ -67,6 +71,7 @@
 }
 
 .botões__ancora {
+    font-family: var(--fonte-principal);
     background-color: var(--laranja);
     padding: 1em 2.2em;
     color: var(--branco);
