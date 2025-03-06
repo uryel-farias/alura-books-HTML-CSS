@@ -1,0 +1,10 @@
+.rodape {
+    background: var(--cor-de-fundo);
+    padding: 2rem 1rem;
+}
+
+.rodape__texto {
+    font-family: var(--fonte-principal);
+    text-align: center;
+
+}
